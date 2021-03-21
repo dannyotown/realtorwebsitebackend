@@ -1,5 +1,7 @@
+#ENV
 .env
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
+env/*
+#DEVOPS
+.docker-compose.yaml
+.Dockerfile
+
