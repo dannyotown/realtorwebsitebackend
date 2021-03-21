@@ -2,6 +2,6 @@
 .env
 env/*
 #DEVOPS
-.docker-compose.yaml
-.Dockerfile
+docker-compose.yaml
+Dockerfile
 
