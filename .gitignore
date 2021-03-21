@@ -5,3 +5,6 @@ env/*
 docker-compose.yaml
 Dockerfile
 
+#db
+*.sqlite3
+
